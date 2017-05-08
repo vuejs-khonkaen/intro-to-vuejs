@@ -1,14 +1,10 @@
 # intro-to-vuejs
 
-## vue
-* [Document](https://vuejs.org)
-
-
-## vuex
-* [Document](vuex.vuejs.org)
-
-## vue-router
-* [Document](http://router.vuejs.org/en/)
+## Documents
+* [vue.js](https://vuejs.org)
+* [vue-cli](https://github.com/vuejs/vue-cli)
+* [vuex](vuex.vuejs.org)
+* [vue-router](http://router.vuejs.org/en/)
 
 ## ui-framework
 * [Element UI](http://element.eleme.io/#/en-US)
