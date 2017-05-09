@@ -7,6 +7,9 @@
 * [vue-router](http://router.vuejs.org/en/)
 * [Nuxt.js](https://nuxtjs.org/)
 
+## Awesome Vue.js
+* [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
+
 ## ui-framework
 * [Element UI](http://element.eleme.io/#/en-US)
 
