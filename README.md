@@ -16,3 +16,6 @@
 ## cheatsheet
 * [vue](https://vuejs-tips.github.io/cheatsheet/)
 * [vuex](https://vuejs-tips.github.io/vuex-cheatsheet/)
+
+## Other
+* [js-array-playground](https://js-array-playground.firebaseapp.com/)
