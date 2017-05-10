@@ -19,3 +19,5 @@
 
 ## Other
 * [js-array-playground](https://js-array-playground.firebaseapp.com/)
+* [axios](https://github.com/mzabriskie/axios)
+* [kradan](https://github.com/Sellsuki/kradan)
